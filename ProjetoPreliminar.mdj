@@ -1,0 +1,309 @@
+{
+	"_type": "Project",
+	"_id": "AAAAAAFF+h6SjaM2Hec=",
+	"name": "Untitled",
+	"ownedElements": [
+		{
+			"_type": "UMLModel",
+			"_id": "AAAAAAFF+qBWK6M3Z8Y=",
+			"_parent": {
+				"$ref": "AAAAAAFF+h6SjaM2Hec="
+			},
+			"name": "Model",
+			"ownedElements": [
+				{
+					"_type": "UMLClassDiagram",
+					"_id": "AAAAAAFF+qBtyKM79qY=",
+					"_parent": {
+						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+					},
+					"name": "Main",
+					"defaultDiagram": true,
+					"ownedViews": [
+						{
+							"_type": "RectangleView",
+							"_id": "AAAAAAGJ7AqBGqj02mI=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 40,
+							"top": 40,
+							"width": 865,
+							"height": 817
+						},
+						{
+							"_type": "RectangleView",
+							"_id": "AAAAAAGJ7Arosaj3MQQ=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 64,
+							"top": 32,
+							"width": 817,
+							"height": 200
+						},
+						{
+							"_type": "EllipseView",
+							"_id": "AAAAAAGJ7Atyv6j70b8=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 80,
+							"top": 64,
+							"width": 81,
+							"height": 81
+						},
+						{
+							"_type": "RectangleView",
+							"_id": "AAAAAAGJ7AxtSakC9c0=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 288,
+							"top": 72,
+							"width": 112,
+							"height": 56
+						},
+						{
+							"_type": "RectangleView",
+							"_id": "AAAAAAGJ7AyQQ6kGg7A=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 512,
+							"top": 72,
+							"width": 112,
+							"height": 56
+						},
+						{
+							"_type": "RectangleView",
+							"_id": "AAAAAAGJ7AzjTKkTSR8=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 176,
+							"top": 72,
+							"width": 112,
+							"height": 56
+						},
+						{
+							"_type": "RectangleView",
+							"_id": "AAAAAAGJ7A0F/6ka2lM=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 728,
+							"top": 72,
+							"width": 112,
+							"height": 56
+						},
+						{
+							"_type": "RectangleView",
+							"_id": "AAAAAAGJ7A1YgqkinO8=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 616,
+							"top": 72,
+							"width": 112,
+							"height": 56
+						},
+						{
+							"_type": "RectangleView",
+							"_id": "AAAAAAGJ7A2SvqkoEUs=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 400,
+							"top": 72,
+							"width": 112,
+							"height": 56
+						},
+						{
+							"_type": "UMLNoteView",
+							"_id": "AAAAAAGJ7BELF6lavHg=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 64,
+							"top": 160,
+							"width": 505,
+							"height": 51,
+							"text": "Logo ia pronto, o botes do menu ao clicar exibiem um imagem referente ao produto do site com linkpara usa referida página. o Titulo em H1 conm font a definir. a cores tambem ainda não foram definidas"
+						},
+						{
+							"_type": "RectangleView",
+							"_id": "AAAAAAGJ7BcYVKlj2dw=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 832,
+							"top": 624,
+							"width": 50,
+							"height": 50
+						},
+						{
+							"_type": "RectangleView",
+							"_id": "AAAAAAGJ7BoObqnPP3I=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 104,
+							"top": 296,
+							"width": 240,
+							"height": 264
+						},
+						{
+							"_type": "RectangleView",
+							"_id": "AAAAAAGJ7Bo+RanSJvQ=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 120,
+							"top": 312,
+							"width": 200,
+							"height": 120
+						},
+						{
+							"_type": "RectangleView",
+							"_id": "AAAAAAGJ7BrtX6ndVFc=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 48,
+							"top": 248,
+							"width": 809,
+							"height": 553
+						},
+						{
+							"_type": "RectangleView",
+							"_id": "AAAAAAGJ7BtGlKnhUw0=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 96,
+							"top": 288,
+							"width": 264,
+							"height": 352
+						},
+						{
+							"_type": "RectangleView",
+							"_id": "AAAAAAGJ7Btmf6nkPWo=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 128,
+							"top": 304,
+							"width": 208,
+							"height": 176
+						},
+						{
+							"_type": "UMLTextBoxView",
+							"_id": "AAAAAAGJ7Bt0T6nndCM=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 176,
+							"top": 360,
+							"width": 121,
+							"height": 38,
+							"text": "aqui vai uma imagem"
+						},
+						{
+							"_type": "UMLTextBoxView",
+							"_id": "AAAAAAGJ7BwamKnuapw=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 136,
+							"top": 504,
+							"width": 153,
+							"height": 89,
+							"text": "Esse é um article, com titulo em H3 e um paragrafo simples. Logo abaixo um botão COMPRE"
+						},
+						{
+							"_type": "UMLNoteView",
+							"_id": "AAAAAAGJ7B8Sz6n6gsk=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 392,
+							"top": 368,
+							"width": 393,
+							"height": 64,
+							"text": "Serão duas sections , contendo tres articles com já desctrito,As sections se posicionam na sequencia de cima para baixo."
+						},
+						{
+							"_type": "RectangleView",
+							"_id": "AAAAAAGJ7CIEoKoJxRI=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 88,
+							"top": 664,
+							"width": 752,
+							"height": 128
+						},
+						{
+							"_type": "UMLNoteView",
+							"_id": "AAAAAAGJ7CIzg6oM5po=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 176,
+							"top": 704,
+							"width": 465,
+							"height": 40,
+							"text": "Aqui o footer contendo redes sociais formas de pagamento e entregea, mais a newsletter."
+						}
+					]
+				},
+				{
+					"_type": "UMLClass",
+					"_id": "AAAAAAGJ69zmZagyYqA=",
+					"_parent": {
+						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+					},
+					"name": "Class1"
+				},
+				{
+					"_type": "UMLInterface",
+					"_id": "AAAAAAGJ691BDKh1yXE=",
+					"_parent": {
+						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+					},
+					"name": "Interface1"
+				},
+				{
+					"_type": "UMLPackage",
+					"_id": "AAAAAAGJ692fCai2XY8=",
+					"_parent": {
+						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+					},
+					"name": "Package1"
+				}
+			]
+		}
+	]
+}

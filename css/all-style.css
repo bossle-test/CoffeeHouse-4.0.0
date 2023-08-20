@@ -1,0 +1,250 @@
+@charset "utf-8";
+
+:root{/*--color-001:#260401;
+      --color-002:#731702;
+      --color-003:#BF3B0B;
+      --color-004:#F2AB6D;
+      --color-05:#26190D;
+      --color-06:#D9C6A3;
+      --color-07:#593B34;*/
+      --c-color-01:#F2F2F2;
+      --c-color-02:#260401;
+      --c-color-03:#593027;
+      --c-color-04:#8C6151;
+      --c-color:05:#D98C5F;
+      --font-title: 'Courgette', cursive;
+      --font-title-II: 'Slabo 27px', serif;}
+
+
+
+*{margin: 0;
+  padding: 0;}
+
+
+
+html{scroll-behavior: smooth ;
+     font-size:16px;}
+
+body{background-color:white;}
+
+
+
+h2{font-size: 1.9rem;
+   text-align: center;}
+
+
+h3{font-size: 1.5rem;
+   text-align: center;
+   padding-bottom: 10px;}
+
+
+p{font-size: 1rem;
+  line-height: 1.5em;
+   text-indent: 30px;
+  padding-top: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+
+
+
+main{display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      grid-template-rows: repeat(5, 1fr);
+      grid-column-gap: 5px;
+      grid-row-gap: 5px;
+      grid-template-columns: 3fr 3fr 3fr;
+      width: 90%;
+      margin: auto;
+      background-color:var(--c-color-03);
+      flex-wrap: wrap;
+      }
+
+main > header:nth-child(1){grid-column-start: 1;
+                           grid-column-end: -1;}
+
+main>footer:nth-child(8){grid-column: 1/-1;}
+
+header{background-color:var(--c-color-03);
+       height: auto;
+        }
+
+
+
+
+#t-site{font-family: var(--font-title);
+        text-align: center;
+        font-size: 8rem;
+         font-variant: small-caps;
+         color:var(--c-color-01);}
+
+
+nav{position: absolute;
+     margin-top: -280px;
+     }
+
+#first-el{margin-left: 290px;}
+
+
+nav a{text-decoration: none;
+      background-color: var(--c-color-01);
+     color:#000;
+     font-weight: bolder;
+      padding:15px 50px;
+      margin-top: 10px;}
+
+
+nav a:hover{background-color: var(--c-color-02);
+            color: #F2F2F2;
+            font-weight: bolder;}
+      
+       
+  #client-access{margin-top: -300px;
+                 margin-left: 960px;}   
+
+
+.client{background-color: var(--c-color-01);
+         padding: 12px 30px;}
+
+
+.anuncio{background-color:var(--c-color-01);
+         width: 100%;
+         height: auto;
+         
+         }
+
+
+  
+
+ 
+
+main > .anuncio{grid-row: span 2;}
+       
+
+ .img-anun{margin-inline-start: 2.5rem;
+            margin-top: 2rem;}
+
+
+
+  .comprar{margin-inline-start: 6rem;
+            width: 12rem;
+            height: 3rem;
+            margin-top: 2rem;
+            margin-bottom: 2rem;
+             background-color:var(--c-color-03);
+             color: #F2F2F2;
+              font-weight: bolder;}
+
+
+
+  .comprar:hover{background-color: var(--c-color-02);
+                  color: #F2F2F2;
+                  font-weight: bolder;}
+
+
+
+.h3-anun{margin-top: 2rem;}
+
+
+footer{height:auto;
+       background-color:var(white);}
+
+
+#geral-icons{width: 100%;
+             height: auto;
+             background-color: var(--c-color-03);
+             display: grid;
+            grid-template-columns:repeat(3, 1fr);
+            margin-bottom: 5px;
+            border-bottom: 5px solid #F2F2F2;
+             }
+
+ #pay-icons > ul > li{list-style-type: none;
+                      display: inline-block;}
+
+
+#delivery-icons > ul > li{list-style-type: none;
+                          display: inline-block;}
+
+
+#networks-icons > ul > li{list-style-type: none;
+                          display: inline-block;}
+
+
+  .first-ele{margin-left: 50px;}
+
+  
+
+.letter-clients{width: 50%;
+                background-color:var(--c-color-03);
+                
+               }
+
+
+.footer-loc-news{width: 100%;
+                  height: auto;
+                  display:inline-flex;
+                  border-bottom: solid 5px #F2F2F2;}
+
+
+
+label{padding: 15px 30px;
+      font-size: 18px;
+       margin-left: 10rem;
+       }
+
+
+.inp-msg{width: 250px;
+          height: 25px;
+          margin-left: 8rem;}
+
+
+.btn-msg{padding: 12px 45px;
+         background-color: var(--c-color-01);
+         margin: auto;}
+
+
+#btn-sub{margin-left: 8rem;}
+
+
+#sessao-mapa{width: 50%;
+              height: auto;
+              background-color: var(--c-color-03); }
+
+          
+
+.mapa{margin-left: 9rem;
+       margin-top: 1.2rem;}
+       
+
+
+.author{width: 100%;
+        height: auto;
+         background-color: var(--c-color-03);
+         display: inline-flex;
+          margin-top: 5px;
+         
+         }
+
+
+.p-author{margin: auto;
+          font-size: 20px;
+          color: #F2F2F2;
+        
+          }
+
+#dir-dir{width: 120px;
+            height: 42px;
+            background-color: var(--c-color-01);
+            position: absolute;
+            margin-left: 800px;
+            margin-top: 5px;
+            background-image: url(../img/img-icons/direitosAutorais.svg);
+           }
+
+
+.h3-footer{color: white;}
+
+
+#face-ele{margin-left: 140px;}

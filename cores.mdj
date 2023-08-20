@@ -1,0 +1,220 @@
+{
+	"_type": "Project",
+	"_id": "AAAAAAFF+h6SjaM2Hec=",
+	"name": "Untitled",
+	"ownedElements": [
+		{
+			"_type": "UMLModel",
+			"_id": "AAAAAAFF+qBWK6M3Z8Y=",
+			"_parent": {
+				"$ref": "AAAAAAFF+h6SjaM2Hec="
+			},
+			"name": "Model",
+			"ownedElements": [
+				{
+					"_type": "UMLClassDiagram",
+					"_id": "AAAAAAFF+qBtyKM79qY=",
+					"_parent": {
+						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+					},
+					"name": "Main",
+					"defaultDiagram": true,
+					"ownedViews": [
+						{
+							"_type": "RectangleView",
+							"_id": "AAAAAAGJ7EXDPY7CeCM=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"fillColor": "#cccccc",
+							"font": "Arial;13;0",
+							"left": 56,
+							"top": 16,
+							"width": 192,
+							"height": 64
+						},
+						{
+							"_type": "UMLTextBoxView",
+							"_id": "AAAAAAGJ7EZiwo7H2Cw=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 352,
+							"top": 24,
+							"width": 185,
+							"height": 65,
+							"text": "#CCCCCC Usar essa cor para o fundo dos articles onde contiver textos"
+						},
+						{
+							"_type": "FreelineEdgeView",
+							"_id": "AAAAAAGJ7EdbNI7NoXk=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"lineStyle": 1,
+							"points": "240:48;353:56"
+						},
+						{
+							"_type": "RectangleView",
+							"_id": "AAAAAAGJ7EjBNI7Qk38=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"fillColor": "#571612",
+							"font": "Arial;13;0",
+							"left": 48,
+							"top": 120,
+							"width": 192,
+							"height": 56
+						},
+						{
+							"_type": "UMLTextBoxView",
+							"_id": "AAAAAAGJ7EkZYY7Uwp4=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 360,
+							"top": 120,
+							"width": 176,
+							"height": 64,
+							"text": "#571612  Essa cor para o cabeçalho"
+						},
+						{
+							"_type": "FreelineEdgeView",
+							"_id": "AAAAAAGJ7EmqX47ZZME=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"lineStyle": 1,
+							"points": "360:144;241:150"
+						},
+						{
+							"_type": "RectangleView",
+							"_id": "AAAAAAGJ7E2iNY7cMbE=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 48,
+							"top": 224,
+							"width": 192,
+							"height": 64
+						},
+						{
+							"_type": "UMLTextBoxView",
+							"_id": "AAAAAAGJ7E4FvI7gzeg=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 344,
+							"top": 240,
+							"width": 232,
+							"height": 41,
+							"text": " #FFFFFF           Essa será a cor dos botoes do menu"
+						},
+						{
+							"_type": "FreelineEdgeView",
+							"_id": "AAAAAAGJ7E9yaI7qQss=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"lineStyle": 1,
+							"points": "240:248;345:261"
+						},
+						{
+							"_type": "UMLTextBoxView",
+							"_id": "AAAAAAGJ7FCqSo7twTA=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 104,
+							"top": 568,
+							"width": 544,
+							"height": 217,
+							"text": "Quando houver     ação do hoverr nos botoes do menu  inverter as cores dos botoes em relação ao header.\nO footer terá as mesmas cores do header IMPORTANTE AS CORES PODEM SER TROCADAS CASO AFETEM A QUALIDADE VISUAL E ACESSIBILIDADE DO SITE.\nFalta definir as cores do container e  além da cor das letras, e tamanhos e tipos de fontes.\n"
+						},
+						{
+							"_type": "RectangleView",
+							"_id": "AAAAAAGJ7FuiRI8DCD0=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"fillColor": "#330909",
+							"font": "Arial;13;0",
+							"left": 56,
+							"top": 312,
+							"width": 184,
+							"height": 56
+						},
+						{
+							"_type": "UMLTextBoxView",
+							"_id": "AAAAAAGJ7FxS0Y8ORD8=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 344,
+							"top": 320,
+							"width": 240,
+							"height": 48,
+							"text": "cor para as bordas"
+						},
+						{
+							"_type": "FreelineEdgeView",
+							"_id": "AAAAAAGJ7FynJY8SVLg=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"lineStyle": 1,
+							"points": "232:344;343:345"
+						},
+						{
+							"_type": "RectangleView",
+							"_id": "AAAAAAGJ7F5Te48Xa4A=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"fillColor": "#004100",
+							"font": "Arial;13;0",
+							"left": 48,
+							"top": 400,
+							"width": 184,
+							"height": 50
+						},
+						{
+							"_type": "UMLTextBoxView",
+							"_id": "AAAAAAGJ7F6RXY8bKmY=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 352,
+							"top": 408,
+							"width": 232,
+							"height": 48,
+							"text": "cor para os botoes dos articos "
+						},
+						{
+							"_type": "FreelineEdgeView",
+							"_id": "AAAAAAGJ7F8A5Y8gkKU=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"lineStyle": 1,
+							"points": "224:416;352:428"
+						}
+					]
+				}
+			]
+		}
+	]
+}
